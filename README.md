@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fauziafifnevandi
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me ...
 
