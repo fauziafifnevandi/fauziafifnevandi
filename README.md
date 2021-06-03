@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fauziafifnevandi
-- 👀 I’m interested in python, javascript, data
-- 🌱 I’m currently learning data analyst, web
-- 💞️ I’m looking to collaborate on code
+- 👀 I’m interested in web & data
+- 🌱 I’m currently learning data & web
 
 my learning path https://whimsical.com/learning-path-fauzi-afif-nevandi-Vv9h27VfVJgNaePb7PFrXy
 
