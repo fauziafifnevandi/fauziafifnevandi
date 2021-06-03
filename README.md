@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fauziafifnevandi
-- 👀 I’m interested in web & data
+- 👀 I’m interested web & data
 - 🌱 I’m currently learning data & web
 
 my learning path https://cutt.ly/learningpath
