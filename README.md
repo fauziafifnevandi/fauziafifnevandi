@@ -2,7 +2,7 @@
 - 👀 I’m interested web & data
 - 🌱 I’m currently learning data & web
 
-my learning path https://cutt.ly/learningpath
+my learning path https://whimsical.com/learning-path-fauzi-afif-nevandi-Vv9h27VfVJgNaePb7PFrXy
 
 <!---
 fauziafifnevandi/fauziafifnevandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
